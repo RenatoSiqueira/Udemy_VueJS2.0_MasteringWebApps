@@ -1,1 +1,2 @@
-# Udemy_VueJS2.0_MasteringWebApps-
+# Udemy Course: VueJS2.0 - Mastering Web Apps
+Author: David Katz
